@@ -5,3 +5,6 @@ def initialiser_arene(nom: str):
 
 print("Moteur de jeu charge.")
 print("Systeme pret.")
+
+def attaque_charge():
+    return "Charge inflige 20 degats"
