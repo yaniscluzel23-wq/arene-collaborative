@@ -1,4 +1,4 @@
-# moteur.py
+# Moteur Officiel de Montpellier
 def initialiser_arene(nom: str):
     return {"nom": nom, "combattants": []}
 
